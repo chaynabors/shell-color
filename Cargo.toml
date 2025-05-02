@@ -1,5 +1,6 @@
 [package]
 name = "shell-color"
+description = "`shell-color` provides a portable, reliable way of determining color support for applications spawned by the shell."
 authors = ["Chay Nabors (chaynabors@gmail.com)"]
 edition = "2021"
 publish = true
