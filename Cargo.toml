@@ -4,7 +4,7 @@ description = "`shell-color` provides a portable, reliable way of determining co
 authors = ["Chay Nabors (chaynabors@gmail.com)"]
 edition = "2021"
 publish = true
-version = "1.10.0"
+version = "1.0.0"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
